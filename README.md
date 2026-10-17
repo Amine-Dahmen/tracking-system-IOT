@@ -228,12 +228,6 @@ Example markdown:
 
 ---
 
-## 12) Author
-
-**Dah**  
-Embedded Systems & IoT Developer
-
----
 
 ## 📄 License
 
